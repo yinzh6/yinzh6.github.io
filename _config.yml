@@ -24,16 +24,16 @@ description_footer: 来自yinzh的个人专栏！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-# duoshuo_shortname: xyao #hygblog
-# disqus_shortname: #gaohaoyang
+# duoshuo_shortname: yzh #hygblog
+# disqus_shortname: #yinzh6
 # using Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: XinYao1994    #github用户名
-  admin: XinYao1994
+  clientID: 0e6222a2d23d6fd5b816                            #生成的clientID
+  clientSecret: fe5a1e61b369a31f7c280e2973ae89401e7ca29b    #生成的clientSecret
+  repo: yinzh6.github.io    #仓库名称
+  owner: yinzh6    #github用户名
+  admin: yinzh6
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
@@ -41,7 +41,7 @@ gitalk:
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 # baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
-google_analytics_id: UA-126298955-1 # google 分析追踪id
+google_analytics_id: UA-126626868-1 # google 分析追踪id
 ga_domain: auto
 
 friends: [
